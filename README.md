@@ -130,28 +130,6 @@ Splunk permitirá:
 
 ---
 
-# Capturas del laboratorio
-
-En esta sección se incluirán capturas de pantalla de los procesos realizados durante la implementación.
-
-## Instalación del dominio Active Directory
-
-![Active Directory Setup](docs/images/ad-installation.png)
-
-## Creación de usuarios desde ManageEngine
-
-![ManageEngine Users](docs/images/manageengine-users.png)
-
-## Automatización de usuarios mediante CSV
-
-![CSV Automation](docs/images/csv-automation.png)
-
-## Instalación de Splunk
-
-![Splunk Installation](docs/images/splunk-install.png)
-
----
-
 # Componentes en desarrollo
 
 El laboratorio continuará expandiéndose con nuevos servicios para simular una infraestructura empresarial más completa.
