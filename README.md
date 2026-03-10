@@ -1,6 +1,3 @@
-# tech-solutions-cybersecurity-lab
-Enterprise infrastructure lab deployed in Oracle Cloud Infrastructure, focused on simulating a corporate environment with Active Directory, identity management, automation, and security monitoring using Splunk.
-
 # Enterprise Cybersecurity Lab – Tech.Solutions
 
 Este proyecto consiste en un **laboratorio de infraestructura empresarial** desplegado en **Oracle Cloud Infrastructure (OCI)**, diseñado para simular un entorno corporativo real con servicios de directorio activo, gestión de identidades, automatización de usuarios y monitoreo de seguridad.
