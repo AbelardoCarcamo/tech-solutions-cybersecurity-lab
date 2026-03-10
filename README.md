@@ -130,6 +130,38 @@ Splunk permitirá:
 
 ---
 
+# Capturas del laboratorio
+
+A continuación se muestran algunas capturas del proceso de configuración del laboratorio.
+
+## ManageEngine ADManager Plus Dashboard
+
+![ManageEngine Dashboard](images/admanager-dashboard.png)
+
+---
+
+## Splunk Monitoring Dashboard
+
+![Splunk Dashboard](images/splunk-dashboard.png)
+
+---
+
+## Creación de usuarios en ManageEngine
+
+### Paso 1
+
+![User Creation Step 1](images/admanager-user-creation-1.png)
+
+### Paso 2
+
+![User Creation Step 2](images/admanager-user-creation-2.png)
+
+### Paso 3
+
+![User Creation Step 3](images/admanager-user-creation-3.png)
+
+---
+
 # Componentes en desarrollo
 
 El laboratorio continuará expandiéndose con nuevos servicios para simular una infraestructura empresarial más completa.
@@ -153,7 +185,6 @@ El objetivo de este laboratorio es **recrear una infraestructura empresarial fun
 - Monitoreo de seguridad
 - Arquitectura Cloud
 - Automatización de procesos IT
-
 ---
 
 # Uso educativo
